@@ -4,7 +4,7 @@
 
 <div align="center">
 
-<img src="https://github.com/sedergsoft.png?size=160" width="110" alt="Avatar de SEDERG">
+<img src="https://raw.githubusercontent.com/sedergsoft/sedergsoft/main/assets/avatar-readme.png" width="110" alt="Avatar de SEDERG">
 
 # SEDERG 👋
 
